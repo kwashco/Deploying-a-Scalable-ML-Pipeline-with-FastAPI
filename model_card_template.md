@@ -25,4 +25,4 @@ The dataset does contain some sensitive attributes including race, sex, and mari
 ## Caveats and Recommendations
 There are some caveats that need mentioning. First of which is the fact that since some slices have very small sample sizes, there could be some extreme metric values. Also, the dataset may contain biases that are learned by the model. 
 
-Some recommentations include removing sensitive features, collecting more balanced data, and performing deeper bias analysis before deploying. 
+Some recommendations include removing sensitive features, collecting more balanced data, and performing deeper bias analysis before deploying. 
